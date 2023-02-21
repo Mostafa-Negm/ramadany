@@ -103,7 +103,7 @@ body{
     }
 }
 /*######################################*/
-@media (min-width: 700px){
+@media (max-width: 820px){
     
     #header .navigation a{
         margin-left: 0.5em;
